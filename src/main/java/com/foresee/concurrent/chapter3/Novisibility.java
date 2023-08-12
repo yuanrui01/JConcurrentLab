@@ -17,7 +17,6 @@ public class Novisibility {
         public void run() {
             System.out.println(currentThread().getName() + "\t ==== in");
             while(!ready) {
-
             }
             System.out.println(currentThread().getName() + "\t ==== out");
         }
