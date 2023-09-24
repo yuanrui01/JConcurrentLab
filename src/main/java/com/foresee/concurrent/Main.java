@@ -8,6 +8,9 @@ package com.foresee.concurrent;
  */
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+
+        Integer i1 = Integer.valueOf(277);
+        Integer i2 = Integer.valueOf(277);
+        System.out.println(i1 == i2);
     }
 }

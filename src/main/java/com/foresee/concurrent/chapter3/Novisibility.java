@@ -1,4 +1,4 @@
-package main.java.com.foresee.concurrent.chapter3;
+package com.foresee.concurrent.chapter3;
 
 import java.util.concurrent.TimeUnit;
 
