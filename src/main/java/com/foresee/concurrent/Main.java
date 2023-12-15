@@ -1,7 +1,7 @@
 package com.foresee.concurrent;
 
 /**
- * @description:12132
+ * @description:
  * @author: yuanrui
  * @email: xdyrfree@gmail.com
  * @date: 2023/8/12-23:08

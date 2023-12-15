@@ -4,9 +4,6 @@ import java.util.concurrent.CompletableFuture;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
-/**
- * fdskfjhfds
- */
 public class LockTest1 {
 
     private final Object objectA = new Object();
